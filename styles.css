@@ -4,7 +4,7 @@ body {
 	background-color:#888888;
 }
 
-#wrapper {
+#wrapper, #difficulty {
 	width:800px;
 	margin:auto;
 }
@@ -30,4 +30,8 @@ form {
 
 #history {
 	margin-top:20px;
+}
+
+button.difficulty {
+	margin:auto;
 }
